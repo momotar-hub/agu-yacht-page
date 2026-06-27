@@ -1,0 +1,6 @@
+{
+  "name": "AGU Sailing Club",
+  "description": "青山学院大学理工ヨットセーリングクラブ管理アプリ (乗艇日誌、メンテナンス、購入商品、活動の手引き、天気、戦歴)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
